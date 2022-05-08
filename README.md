@@ -4,7 +4,7 @@
 
 
 
-
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=john-montgomery2003&show_icons=true&theme=radical" alt="john-montgomery2003" /></p>
 
 
 
