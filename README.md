@@ -13,6 +13,11 @@
 </table>
 </p>
 
+<img
+  src="https://github.com/john-montgomery2003/john-montgomery2003/blob/main/images/stat.svg"
+  alt="Alternative Text"
+/>
+
 <h3 align="center">You were visitor number:</h3>
 <p align="center"><img src="https://profile-counter.glitch.me/john-montgomery2003/count.svg" alt="john-montgomery2003" /></p>
 <h3 align="center">Thanks for stopping by</h3>
