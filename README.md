@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm John</h1>
-<h3 align="center">I'm a student, working towards a career in computer science.</h3>
+<h1 align="center" style='background:#111'> Hi, I'm John</h1>
+<h3 align="center">I am a motivated and versatile student aspiring to start my career in software engineering through a degree apprenticeship. I hope to expand my knowledge, but more importantly skills, whilst combining study with hands on work, which I enjoy and think will allow me to excel in the field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=john-montgomery2003&label=Profile%20views&color=0e75b6&style=flat" alt="john-montgomery2003" /> </p>
 
