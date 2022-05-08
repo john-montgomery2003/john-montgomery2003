@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm John</h1>
 <h3 align="center">I am a motivated and versatile student aspiring to start my career in software engineering through a degree apprenticeship. I hope to expand my knowledge, but more importantly skills, whilst combining study with hands on work, which I enjoy and think will allow me to excel in the field.</h3>
-
+<p align="center">
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -11,7 +11,7 @@
     </td>
   </tr>
 </table>
-
+</p>
 
 <h3 align="center">You were visitor number:</h3>
 <p align="center"><img src="https://profile-counter.glitch.me/john-montgomery2003/count.svg" alt="john-montgomery2003" /></p>
