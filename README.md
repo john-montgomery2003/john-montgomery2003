@@ -1,16 +1,8 @@
 <h1 align="center"> Hi, I'm John</h1>
 <h3 align="center">I am a motivated and versatile student aspiring to start my career in software engineering through a degree apprenticeship. I hope to expand my knowledge, but more importantly skills, whilst combining study with hands on work, which I enjoy and think will allow me to excel in the field.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=john-montgomery2003&label=Profile%20views&color=0e75b6&style=flat" alt="john-montgomery2003" /> </p>
 
-<p align="left"> <a href="https://twitter.com/2003montgomery" target="blank"><img src="https://img.shields.io/twitter/follow/2003montgomery?logo=twitter&style=for-the-badge" alt="2003montgomery" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/2003montgomery" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="2003montgomery" height="30" width="40" /></a>
-</p>
-
-<p><img align="center" src="https://profile-counter.glitch.me/john-montgomery2003/count.svg" alt="john-montgomery2003" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/john-montgomery2003/count.svg" alt="john-montgomery2003" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
