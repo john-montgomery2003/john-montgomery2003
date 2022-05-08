@@ -4,11 +4,8 @@
 
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=john-montgomery2003&show_icons=true&theme=radical" alt="john-montgomery2003" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-montgomery2003&theme=radica" alt="john-montgomery2003" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=john-montgomery2003&show_icons=true&theme=radical" alt="john-montgomery2003" /></p>
 
-
-
-=
 
 
 <h3 align="center">You were visitor number:</h3>
