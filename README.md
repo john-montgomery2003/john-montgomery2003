@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm John</h1>
-<h3 align="center">I am a motivated and versatile student aspiring to start my career in software engineering through a degree apprenticeship. I hope to expand my knowledge, but more importantly skills, whilst combining study with hands on work, which I enjoy and think will allow me to excel in the field.</h3>
+<h3 align="center">I work for prime video as a software engineer</h3>
 <p align="center">
 <table>
   <tr>
