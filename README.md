@@ -1,4 +1,7 @@
 <h1 align="center"> Hi, I'm John</h1>
+
+<img src="./images/JOHN HERO.png" alt="john-montgomery2003" />
+
 <h3 align="center">I work for prime video as a software engineer</h3>
 
 <h3 align="center">You were visitor number:</h3>
